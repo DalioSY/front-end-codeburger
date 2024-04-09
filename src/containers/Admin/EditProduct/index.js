@@ -52,7 +52,7 @@ function EditProduct() {
     productDataFormData.append('offer', data.offer)
 
     await toast.promise(
-      api.post(`products${product.id}`, productDataFormData),
+      api.put(`products/${product.id}`, productDataFormData),
       {
         pending: 'Editando novo produto',
         error: 'Falha ao editar o produto',
@@ -61,7 +61,7 @@ function EditProduct() {
     )
 
     setTimeout(() => {
-      push('/listar-produtos')
+      push('./listar-produtos')
     }, 2000)
   }
 

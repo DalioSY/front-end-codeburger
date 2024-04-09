@@ -23,6 +23,11 @@ export const ContainerItens = styled.div`
   flex-direction: column;
   justify-content: center;
 
+  img {
+    width: 200px;
+    align-items: center;
+  }
+
   form {
     display: flex;
     flex-direction: column;

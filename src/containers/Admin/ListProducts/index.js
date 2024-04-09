@@ -16,7 +16,7 @@ import formatCurrency from '../../../utils/formatCurrency'
 import { Container, Img, EditIconStyled } from './styles'
 
 function ListProducts() {
-  const [products, setProducts] = useState([])
+  const [products, setProducts] = useState()
   const { push } = useHistory()
 
   useEffect(() => {
@@ -36,7 +36,7 @@ function ListProducts() {
   }
 
   function editProduct(product) {
-    push(paths.EditProduct, { state: { product } })
+    push(paths.EditProduct, { product })
   }
 
   return (

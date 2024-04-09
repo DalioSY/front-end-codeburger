@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+<h1 align="center">Front-End CodeBurguer</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Olá sejam bem-vindo</h2>
 
-## Available Scripts
+<p>Projeto Front-End CodeBurguer</p>
+<p>Com o auxílio do meu mentor Rodolfo Mori, desenvolvi um projeto completo para uma hamburgueria utilizando React, API e Área Admin. O site oferece uma experiência completa para os clientes, desde a navegação intuitiva até a compra final.</p>
 
-In the project directory, you can run:
+<h4>Funcionalidades:</h4>
+<ul>
+<li>🌮 Divisão de categorias: Organizei os hambúrgueres por categorias como carne bovina, frango, vegetariano e vegano, facilitando a busca do cliente.</li>
+<li>🛒 Adição no carrinho: O cliente pode adicionar os hambúrgueres favoritos ao carrinho com apenas alguns cliques, com direito a personalização de ingredientes e acompanhamentos.</li>
+<li>🔐 Área Admin: Criei uma área administrativa completa para gerenciamento de pedidos, processo, produtos...</li>
+</ul>
 
-### `npm start`
+<h4>Tecnologias:</h4>
+<ul>
+<li>⚙ React: Framework JavaScript para interfaces de usuário interativas e responsivas.</li>
+<li>🔧 API: Criei uma API para comunicação entre o frontend e o backend.</li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>
+Este projeto me proporcionou a oportunidade de aprofundar meus conhecimentos em diversas tecnologias de back-end, como Node.js, Express, bancos de dados relacionais e não relacionais, Docker, testes automatizados e segurança.</p>
+<p>
+Gostaria de agradecer ao meu mentor, Rodolfo do Dev Club, pelo seu apoio, orientação e valiosos ensinamentos durante todo o desenvolvimento deste projeto.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h4>Link:</h4>
 
-### `npm test`
+>Repoditório: https://github.com/DalioSY/front-end-codeburger
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+>Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
 
-### `npm run build`
+<p>
+#hamburgueria #HTML #CSS #JavaScript #Github #React.js #Typescript #Node.js #Api #Express #Sequelize #Postgresql #Docker #FrontEnd #BackEnd #FullStack #Programador #Dev #Web #Desenvolvedor-Web #DesenvolvedorFrontEnd #DesenvolvedorBackEnd #DesenvolvedorFullStack #TransiçãoDeCarreira #jornadaproficional #aprendendo #tecnologia #openToWork #Recruiter #rh</p>
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Imagens:</h2>
+  </ul>
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center"> 
+  <img src="./src/img/git-1.png" width="250px">
+  <img src="./src/img/git-2.png" width="250px">
+  <img src="./src/img/git-3.png" width="250px">
+  <img src="./src/img/git-4.png" width="250px">
+  <img src="./src/img/git-5.png" width="250px">
+  <img src="./src/img/git-6.png" width="250px">
+  <img src="./src/img/git-7.png" width="250px">
+  <img src="./src/img/git-8.png" width="250px">
+</div>
